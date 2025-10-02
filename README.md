@@ -1,6 +1,6 @@
 # AnimateDiff
 
-This repository is the official implementation of [AnimateDiff](https://arxiv.org/abs/2307.04725) [ICLR2024 Spotlight].
+This repository is a copied fork of [AnimateDiff](https://arxiv.org/abs/2307.04725) [ICLR2024 Spotlight]. The official repo did not work on WSL 22.04 this fork however did.
 It is a plug-and-play module turning most community text-to-image models into animation generators, without the need of additional training.
 
 **[AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning](https://arxiv.org/abs/2307.04725)** 
